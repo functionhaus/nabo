@@ -33,8 +33,8 @@ defmodule Nabo.Mixfile do
   end
 
   defp package do
-    [maintainers: ["Cẩm Huỳnh"],
-     licenses: ["Apache 2"],
+    [maintainers: ["Mike Zazaian, Cẩm Huỳnh"],
+     licenses: ["Apache 2, MIT"],
      links: %{"GitHub" => "https://github.com/functionhaus/nabo"},
      files: ~w(mix.exs README.md lib)]
   end
